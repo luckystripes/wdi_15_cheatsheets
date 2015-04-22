@@ -8,11 +8,10 @@
 ---
 #### Setting up PostgresSQL & Heroku (All steps involved)
 ---
-1.  ##### Creating a new rails app using postgresql
-
-```
-rails new <app_name> -d postresql -T
-```
+1. ##### Creating a new rails app using postgresql
+	```
+	rails new <app_name> -d postresql -T
+	```
 
 2. ##### Switching over to PostgreSQL from SQLite
    ###### In the Gemfile
