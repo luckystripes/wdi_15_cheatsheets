@@ -8,7 +8,8 @@
 ---
 #### Setting up PostgresSQL & Heroku (All steps involved)
 ---
-1.  ##### Creating a new rails app using postgresql (Skip Test)
+1.  ##### Creating a new rails app using postgresql
+
 ```
 rails new <app_name> -d postresql -T
 ```
