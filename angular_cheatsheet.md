@@ -1,5 +1,7 @@
 Angular Cheatsheet
 
+![alt text](http://cdn.recipes100.com/v/5ba1628cdf9ce0cd536f0d45f5eb6c18.jpg "Logo Title Text 1")
+
 Angular Filters
 
 custom filter:
